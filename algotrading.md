@@ -1,7 +1,6 @@
 ---
 title: "ACTL1101 Assignment Part A"
 author: "Leon Koshy"
-date: "2024 T2"
 output:
   html_document:
     df_print: paged
